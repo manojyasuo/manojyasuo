@@ -332,14 +332,35 @@ and contribute to real-world applications while learning from experienced develo
 
 # 📊 GitHub Statistics
 
+---
+
+# 📊 GitHub
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=manojyasuo&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" width="48%" />
+<a href="https://github.com/manojyasuo">
+  <img src="https://img.shields.io/badge/GitHub-manojyasuo-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojyasuo&layout=compact&hide_border=true&theme=transparent" width="48%" />
+<a href="https://github.com/manojyasuo?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-View%20Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/manojyasuo">
+  <img src="https://img.shields.io/github/followers/manojyasuo?style=flat-square&label=Followers&logo=github" />
+</a>
+
+<a href="https://github.com/manojyasuo">
+  <img src="https://img.shields.io/github/stars/manojyasuo?style=flat-square&label=Total%20Stars&logo=github" />
+</a>
 
 </div>
 
+<br>
+
+> 💻 Check out my repositories to explore my projects and development work.
 ---
 
 # 🤝 Let's Connect
