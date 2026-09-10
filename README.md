@@ -22,8 +22,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=manojyasuo&style=flat-square&color=2563EB&label=PROFILE+VIEWS" />
-
 </div>
 
 ---
@@ -34,11 +32,11 @@ Hi, I'm **Manoj K**, a **B.Tech Information Technology graduate** and aspiring *
 
 I enjoy building practical web applications using **Java, Spring Boot, React, JavaScript, Bootstrap, and MySQL**.
 
-My main focus is understanding how the **frontend, backend, APIs, and database** work together to create complete web applications.
+My primary focus is developing complete web applications and understanding how the **frontend, backend, REST APIs, and database** work together.
 
-I am continuously improving my skills through projects, coding practice, and hands-on development.
+I strengthen my technical skills through hands-on projects, coding practice, and continuous learning.
 
-> 💡 **My goal:** To become a strong Full Stack Developer and contribute to real-world software projects.
+> 💡 **Career Goal:** To become a skilled Full Stack Developer and contribute to real-world software development projects.
 
 ---
 
@@ -46,6 +44,7 @@ I am continuously improving my skills through projects, coding practice, and han
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### 🎓 Education
@@ -53,7 +52,7 @@ I am continuously improving my skills through projects, coding practice, and han
 **B.Tech – Information Technology**
 
 K.S. Rangasamy College of Technology  
-Tiruchengode
+Tiruchengode, Tamil Nadu
 
 **2022 – 2026**
 
@@ -61,7 +60,7 @@ Tiruchengode
 
 <td width="50%">
 
-### 💼 Career
+### 💼 Career Focus
 
 **Aspiring Full Stack Developer**
 
@@ -70,10 +69,11 @@ Interested in:
 - Java Development
 - Spring Boot
 - React Development
-- REST APIs
+- REST API Development
 - Database Development
 
 </td>
+
 </tr>
 </table>
 
@@ -163,7 +163,7 @@ Interested in:
 
 ### Full-Stack Employee Task Management Platform
 
-A full-stack web application designed to intelligently **assign, monitor, and reallocate employee tasks** based on employee skills, workload, availability, and task priority.
+A full-stack web application designed to **assign, monitor, and reallocate employee tasks** based on employee skills, workload, availability, and task priority.
 
 ### ✨ Main Features
 
@@ -171,7 +171,7 @@ A full-stack web application designed to intelligently **assign, monitor, and re
 |---|---|
 | 🔐 Authentication | Admin and Employee login |
 | 👥 Employee Management | Admin creates and manages employee accounts |
-| 🧠 Task Allocation | Assigns tasks based on suitability |
+| 🧠 Task Allocation | Assigns tasks based on employee suitability |
 | ⚖️ Workload Balancing | Considers employee workload |
 | 🔄 Task Reallocation | Reassigns pending tasks when required |
 | 📅 Leave Management | Employee leave and availability management |
@@ -206,9 +206,7 @@ A full-stack web application designed to intelligently **assign, monitor, and re
 ### 🔗 Project
 
 <a href="https://github.com/manojyasuo/AI-Based-Task-Reallocation-Employee-Productivity-System">
-
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" />
-
 </a>
 
 ---
@@ -247,8 +245,6 @@ A React-based Instagram-inspired application created to strengthen my understand
 
 </p>
 
-
-
 ### 🔗 Project
 
 <a href="https://github.com/manojyasuo/instagram-clone-react">
@@ -263,7 +259,7 @@ A React-based Instagram-inspired application created to strengthen my understand
 
 ### Tech Volt Solutions Pvt. Ltd. — Coimbatore
 
-During my internship, I gained practical exposure to **Java full-stack development** and learned how frontend, backend, and database components work together in a web application.
+During my internship, I gained practical exposure to **Java full-stack development** and learned how frontend, backend, and database components work together in web applications.
 
 ### Technologies Used
 
@@ -328,34 +324,24 @@ and contribute to real-world applications while learning from experienced develo
 
 ---
 
-
-# 📊 GitHub
+# 📂 GitHub
 
 <div align="center">
 
 <a href="https://github.com/manojyasuo">
-  <img src="https://img.shields.io/badge/GitHub-manojyasuo-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-manojyasuo-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://github.com/manojyasuo?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-View%20Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Repositories-View%20Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
 
-<a href="https://github.com/manojyasuo">
-  <img src="https://img.shields.io/github/followers/manojyasuo?style=flat-square&label=Followers&logo=github" />
-</a>
-
-<a href="https://github.com/manojyasuo">
-  <img src="https://img.shields.io/github/stars/manojyasuo?style=flat-square&label=Total%20Stars&logo=github" />
-</a>
+> 💻 Explore my repositories to see my projects, coding practice, and development work.
 
 </div>
 
-<br>
-
-> 💻 Check out my repositories to explore my projects and development work.
 ---
 
 # 🤝 Let's Connect
@@ -374,17 +360,17 @@ and contribute to real-world applications while learning from experienced develo
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 ### Thanks for visiting my profile! 👋
 
 **Building • Learning • Improving**
 
+</div>
+
 <br>
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=120&section=footer"/>
 
