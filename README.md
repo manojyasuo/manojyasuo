@@ -251,7 +251,8 @@ A React-based Instagram-inspired application created to strengthen my understand
 
 > ⚠️ Replace the repository URL below with your **actual Instagram Clone repository URL** if the repository name is different.
 
-<a href="https://github.com/manojyasuo/instagram_clone">
+<a href="https://github.com/manojyasuo/instagram-clone-react.git">
+
 
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" />
 
