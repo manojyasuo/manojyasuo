@@ -331,9 +331,6 @@ and contribute to real-world applications while learning from experienced develo
 
 ---
 
-# 📊 GitHub Statistics
-
----
 
 # 📊 GitHub
 
